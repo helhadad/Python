@@ -1,5 +1,5 @@
-# ATU
-This is Repo for ATU Code
+# Python Repo
+This is Repo for ATU - GIT and GitHub Walkthroughs
 
 Author : Hesham Elhadad
 
