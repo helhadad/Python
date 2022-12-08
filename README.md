@@ -1,5 +1,6 @@
 # Python Repo
-This is Repo for ATU - GIT and GitHub Walkthroughs
+This is Repo demonstrsates Python scripts on Git and GitHub
+It is dedicated mainly for ATU - GIT and GitHub Walkthroughs
 
 ## Usage
 To display the repo history please, type:
