@@ -1,5 +1,5 @@
 # Python Repo
-This is Repo demonstrsates Python scripts on Git and GitHub
+This Repo demonstrsates Python scripts on Git and GitHub
 It is dedicated mainly for ATU - GIT and GitHub Walkthroughs
 
 ## Usage
