@@ -47,13 +47,20 @@ The application uses the following handlers:
 2. file_handlr - for logging more debug and errors in a log file (../Logs/App_log.txt)
 
 ## 4 - Usage
-The application is not interactive, no inputs of decisions is expected from users.
+The application is interactive, requires inputs for DHCP logging file, and a folder path to the output CSV file.
 To run the application, run "main.py" file only as follows:
 
 ``` Python main.py ```
+
 
 The application will then prompt the user to enter a full path to the DHCP log file. The application will validate the path 
 entered as valid file (i.e, not a folder) and the file exists.
 
 Later, the application will prompt the user again for a path to the csv out file, The application
 will validate the path as an existing folder.
+
+Example as follows:
+
+```Enter DHCP Log file path (no quotes) : DHCP_Parser\Input\dhcpd.log```
+
+```Enter the desired CSV folder (no quotes) : DHCP_Parser\Output```

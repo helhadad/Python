@@ -121,3 +121,51 @@
 2022-11-13 16:50:11,619 - main_app - DEBUG - Opening CSV file for writing CSV data
 2022-11-13 16:50:29,696 - Lib.app_functions - ERROR - Wrong data entered = C:\HESHAM_SPACE_C\CODING_FOLDER\04-Python\Python_Master\ATU-Python\DHCP_Parser\Output\app_out_2.csv
 2022-11-13 16:50:46,177 - main_app - INFO - App completes its work successfully
+2023-01-09 19:37:14,916 - main_app - INFO - Application starts
+2023-01-09 19:37:14,916 - main_app - DEBUG - Initialize node dictionary
+2023-01-09 19:37:14,916 - main_app - DEBUG - Initialize mac-address data dictionary
+2023-01-09 19:37:14,916 - main_app - DEBUG - Opening mac data file: d:\01-WorkSpcae\Python_Trials\PythonCode\Python_Master\ATU-Python\DHCP_Parser\Lib\MacDataBase.json
+2023-01-09 19:37:48,570 - Lib.app_functions - ERROR - Wrong data entered = /logs/app_lgo.txt
+2023-01-09 19:38:11,166 - Lib.app_functions - ERROR - Wrong data entered = \Logs\app_lgo.txt
+2023-01-09 19:38:34,998 - Lib.app_functions - ERROR - Wrong data entered = D:\01-WorkSpcae\Python_Trials\PythonCode\Python_Master\ATU-Python\DHCP_Parser\Logs
+2023-01-09 19:43:52,174 - Lib.app_functions - ERROR - Wrong data entered = c:\
+2023-01-09 19:52:51,582 - Lib.app_functions - ERROR - Wrong data entered = C:/Python_310/python.exe d:/01-WorkSpcae/Python_Trials/PythonCode/Python_Master/ATU-Python/DHCP_Parser/main.py
+2023-01-09 19:56:35,471 - Lib.app_functions - ERROR - Wrong data entered = Input/ahcpd.log
+2023-01-09 19:57:08,206 - main_app - DEBUG - Opening DHCP log file for parsing data
+2023-01-09 19:57:08,207 - main_app - DEBUG - Processing DHCP log file is completed successfully
+2023-01-09 19:57:08,207 - main_app - DEBUG - Preparing CSV data
+2023-01-09 19:57:08,207 - main_app - DEBUG - Opening CSV file for writing CSV data
+2023-01-09 19:57:32,386 - main_app - INFO - App completes its work successfully
+2023-01-09 20:09:33,350 - main_app - INFO - Application starts
+2023-01-09 20:09:33,350 - main_app - DEBUG - Initialize node dictionary
+2023-01-09 20:09:33,351 - main_app - DEBUG - Initialize mac-address data dictionary
+2023-01-09 20:09:33,351 - main_app - DEBUG - Opening mac data file: d:\01-WorkSpcae\Python_Trials\PythonCode\Python_Master\ATU-Python\DHCP_Parser\Lib\MacDataBase.json
+2023-01-09 20:09:49,332 - main_app - DEBUG - Opening DHCP log file for parsing data
+2023-01-09 20:09:49,333 - main_app - DEBUG - Processing DHCP log file is completed successfully
+2023-01-09 20:09:49,333 - main_app - DEBUG - Preparing CSV data
+2023-01-09 20:09:49,333 - main_app - DEBUG - Opening CSV file for writing CSV data
+2023-01-09 20:13:16,673 - main_app - INFO - Application starts
+2023-01-09 20:13:16,673 - main_app - DEBUG - Initialize node dictionary
+2023-01-09 20:13:16,674 - main_app - DEBUG - Initialize mac-address data dictionary
+2023-01-09 20:13:16,674 - main_app - DEBUG - Opening mac data file: d:\01-WorkSpcae\Python_Trials\PythonCode\Python_Master\ATU-Python\DHCP_Parser\Lib\MacDataBase.json
+2023-01-09 20:13:30,941 - main_app - DEBUG - Opening DHCP log file for parsing data
+2023-01-09 20:13:30,942 - main_app - DEBUG - Processing DHCP log file is completed successfully
+2023-01-09 20:13:30,942 - main_app - DEBUG - Preparing CSV data
+2023-01-09 20:13:30,942 - main_app - DEBUG - Opening CSV file for writing CSV data
+2023-01-09 20:13:55,797 - Lib.app_functions - ERROR - Wrong data entered = DHCP_Parser\Output\app_out.csv
+2023-01-09 20:14:15,978 - main_app - INFO - App completes its work successfully
+2023-01-09 20:14:35,357 - main_app - INFO - Application starts
+2023-01-09 20:14:35,357 - main_app - DEBUG - Initialize node dictionary
+2023-01-09 20:14:35,358 - main_app - DEBUG - Initialize mac-address data dictionary
+2023-01-09 20:14:35,358 - main_app - DEBUG - Opening mac data file: d:\01-WorkSpcae\Python_Trials\PythonCode\Python_Master\ATU-Python\DHCP_Parser\Lib\MacDataBase.json
+2023-01-09 20:14:42,245 - main_app - DEBUG - Opening DHCP log file for parsing data
+2023-01-09 20:14:42,248 - main_app - DEBUG - Processing DHCP log file is completed successfully
+2023-01-09 20:14:42,248 - main_app - DEBUG - Preparing CSV data
+2023-01-09 20:14:42,248 - main_app - DEBUG - Opening CSV file for writing CSV data
+2023-01-09 20:14:49,562 - main_app - INFO - App completes its work successfully
+2023-01-09 21:38:38,143 - main_app - INFO - Application starts
+2023-01-09 21:38:38,144 - main_app - DEBUG - Initialize node dictionary
+2023-01-09 21:38:38,144 - main_app - DEBUG - Initialize mac-address data dictionary
+2023-01-09 21:38:38,144 - main_app - DEBUG - Opening mac data file: d:\01-WorkSpcae\Python_Trials\PythonCode\Python_Master\ATU-Python\DHCP_Parser\Lib\MacDataBase.json
+2023-01-09 21:38:59,146 - Lib.app_functions - ERROR - Wrong data entered = 1
+2023-01-09 21:39:02,053 - Lib.app_functions - ERROR - Wrong data entered = 2

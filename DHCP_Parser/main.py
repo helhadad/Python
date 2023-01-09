@@ -50,7 +50,7 @@ regex = r"DHCP.+?(\d+.\d+.\d+.\d+).+?([0-9a-f]+:[0-9a-f]+:[0-9a-f]+:[0-9a-f]+:[0
 # Node name prefix (i.e., Node-1, Node-2, )
 pref = 1
 # Get Log file from the user
-dhcp_log_file_path = get_path_input("Enter DHCP Log file path (no quotes) : ")
+dhcp_log_file_path = get_path_input("Enter DHCP Log file path (Path to file including file name with no quotes) : ")
 try:
     logger.debug("Opening DHCP log file for parsing data", )
     with open(dhcp_log_file_path, "r") as inp_file:
@@ -84,7 +84,7 @@ csv_data = list(nodeDict.values())
 fields = list(csv_data[0].keys())
 logger.debug("Opening CSV file for writing CSV data")
 # Get the CSV output path from the user
-csv_file_path = get_path_output("Enter the desired CSV folder (no quotes) : ")
+csv_file_path = get_path_output("Enter the desired CSV folder (Folder only with no quotes) : ")
 csv_file_name = op.join(csv_file_path,"app_out.csv")
 try:
     with open(csv_file_name, 'w', newline='') as outfile:
