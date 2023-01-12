@@ -4,7 +4,7 @@ Author  : John O'Raw
         Copied by Hesham Elhadad for testing and studying purpose
 ID      : L00177542
 Date    : 25-Oct-22
-Purpose : This script demonstrates
+Purpose : This script demonstrates how to build socket and establish communication 
 
 Tested  : Python 3.10 on Windows 10 Pro
 Rev     : 0
