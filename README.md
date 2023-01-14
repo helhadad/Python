@@ -6,7 +6,7 @@ Author : Hesham Elhadad
 ID     : L00177542
 
 ## Usage
-The following hierarchy of folders organize the scripts created during teaching of module `"Infrastructure as Code"` by John O'Raw:
+The following hierarchy of folders organize the scripts created during teaching lessons of module `"Infrastructure as Code"` by John O'Raw:
 
 
 ### Report 1
@@ -29,16 +29,33 @@ Comprises exercises from 07 to 12 which covers more advanced coding and applicat
 >#### Exercise 07
 - create_directory.py
 - 
-#### Exercise 08
-
-#### Exercise 09
-
-#### Exercise 10
-
-#### Exercise 11
-
-#### Exercise 12
-
+>#### Exercise 08
+- class_template.py
+- devices.py
+- main.py
+- oo1.py
+>#### Exercise 09
+- Area_clac.py
+- pylint2.py
+- test_Area_clac.py
+>#### Exercise 10
+- logfiles
+- cpu_log.py
+- file_utilities.py
+- os_utilities.ppy
+>#### Exercise 11
+- settings
+- mc_client.py
+- mc_server.py
+- tcp_client.py
+- tcp_server.py
+- udp_client.py
+- udp_server.py
+>#### Exercise 12
+- Source
+- directory_utilities
+- main.py
+- ProjectDir.bat
 
 
 
