@@ -28,7 +28,8 @@ Comprises Exercises from 01 to 06 and it covers the early introduction to Python
 Comprises exercises from 07 to 12 which covers more advanced coding and application of Python.
 >#### Exercise 07
 - create_directory.py
-- 
+- detect_working_directory.py
+- get_endurance.py
 >#### Exercise 08
 - class_template.py
 - devices.py
