@@ -3,7 +3,7 @@ This Repo demonstrates Python scripts on GitHub.
 It is mainly dedicated for ATU - GIT and GitHub Walkthroughs
 Author : Hesham Elhadad
 
-ID     : L00177542
+ID     : 
 
 ## Usage
 The following hierarchy of folders organize the scripts created during teaching lessons of module `"Infrastructure as Code"` by John O'Raw:
